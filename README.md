@@ -1,14 +1,14 @@
-<a href="https://www.fethitekyaygil.com">
- <img src = "https://github.com/TekyaygilFethi/TekyaygilFethi/blob/main/Entrance.gif">
+<a href="">
+ <img src = "">
  </a>
 
 **About Me!**
 
-- 👨🏽‍💻  I’m currently AI Team Lead @ Global AI Hub
-- 🌱 I’m currently developing .NET Core projects and Data Science projects
-- 🤔 My interest lies in back-end web development, Data Science, Machine Learning, Deep Learning and Flutter
-- 💬 Ask me about anything from [contact@fethitekyaygil.com](mailto:contact@fethitekyaygil.com), I love to answer!
-- 🌐 You can see my personal website through [here](https://www.fethitekyaygil.com)
+- 👨🏽‍💻  I’m currently Software Engineer  @ Motorola Solutions
+- 🌱 I’m currently working as DevOps and Cloud Engineer 
+- 🤔 My interest lies in DevOps , Data Science, Machine Learning, Deep Learning and  back-end web development
+- 💬 Ask me about anything from [parthgoswami042@gmail.com](mailto:parthgoswami042@gmail.com), I love to answer!
+- 🌐 You can see my personal website through [here]()
 
 
 <p style="display: inline-block;" align="center">
@@ -115,7 +115,4 @@
 
 
 
------
-Credits: [Fethi Tekyaygil](https://github.com/TekyaygilFethi)
 
-Last Edited on: 20/01/2022
